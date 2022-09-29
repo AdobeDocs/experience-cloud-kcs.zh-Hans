@@ -1,5 +1,5 @@
 ---
-source-git-commit: e8f4ca2dd578944d4fe399074fab461de88ad247
+source-git-commit: 0c3e421beca46d9fe1952b1f98538a50697216a0
 workflow-type: tm+mt
 source-wordcount: '430'
 ht-degree: 100%
@@ -35,7 +35,7 @@ If you submit a pull request with significant changes to documentation and code 
 
 ### Adobe 员工做出的主要更改
 
-如果您是产品团队中负责提供 Adobe Experience Cloud 解决方案的技术作家、项目经理或开发人员，并且您的工作是撰写或创作技术文章，则应使用位于 `https://git.corp.adobe.com/AdobeDocs` 的专用存储库。
+如果您是产品团队中负责提供 [!UICONTROL Adobe Experience Cloud] 解决方案的技术作家、项目经理或开发人员，并且您的工作是撰写或创作技术文章，则应使用位于 `https://git.corp.adobe.com/AdobeDocs` 的专用存储库。
 
 <!--Employees from other parts of the Adobe world should use the public repo for minor updates.-->
 
