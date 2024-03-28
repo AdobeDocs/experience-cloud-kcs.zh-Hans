@@ -1,8 +1,8 @@
 ---
-source-git-commit: 20c4e7effb70e287c0e56c14e5831b139bc4a64c
+source-git-commit: 1d8853288655a9c383136080d0db89dba69d13eb
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '281'
+ht-degree: 100%
 
 ---
 # 参与
@@ -43,4 +43,4 @@ submitting a pull request!
 
 ## 安全问题
 
-不应在此问题跟踪器上报告安全问题，而是[应该将安全问题提交给我们的安全专家。](https://helpx.adobe.com/cn/security/alertus.html)
+不应在此问题跟踪器上报告安全问题，而是请[将安全性问题报告给我们的安全专家](https://helpx.adobe.com/cn/security/alertus.html)
